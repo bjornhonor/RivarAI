@@ -1,0 +1,10 @@
+loud = 5
+furia = 1
+miners = 6
+fla = 0
+kabum = 3
+intz = 2
+pain = 7
+liberty = 4
+rensga = 9
+red = 8
